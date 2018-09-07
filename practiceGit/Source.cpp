@@ -7,4 +7,5 @@ int main()
 	// adding a comment
 	system("pause");
 	return 0;
+	//end of the line
 }
