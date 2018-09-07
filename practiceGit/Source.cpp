@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	//cout 
+	//testing ....
 	cout << "practice Git" << endl;
 	// adding a comment
 	system("pause");
